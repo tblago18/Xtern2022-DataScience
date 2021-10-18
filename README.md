@@ -1,4 +1,5 @@
-#This is the repository for the Xtern 2022 Data Science assessment.
+# Xtern2022 - DataScience
+This is the repository for the Xtern 2022 Data Science assessment.
 
 To read the report, please open the **report.pdf** file.
 
