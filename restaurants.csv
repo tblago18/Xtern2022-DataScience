@@ -1,0 +1,11 @@
+,name,price_level,rating,types,vicinity
+0,The Spot Nutrition,,5.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","4202 South Meridian Street Suite E, Indianapolis"
+1,Yats,1.0,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']","5363 North College Avenue, Indianapolis"
+2,The Friendly Tavern,2.0,4.7,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","290 South Main Street, Zionsville"
+3,Sub 16,1.0,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","640 South Main Street #300, Zionsville"
+4,Thai Recipes Restaurant,2.0,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","404 Thompson Road g2, Indianapolis"
+5,Convivio Italian Artisan Cuisine - Zionsville,2.0,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","40 South Main Street, Zionsville"
+6,Mama Carolla's,2.0,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']","1031 East 54th Street, Indianapolis"
+7,Twenty Tap,2.0,4.7,"['bar', 'liquor_store', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","5406-08 North College Avenue, Indianapolis"
+8,The Jazz Kitchen,2.0,4.7,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","5377 North College Avenue, Indianapolis"
+9,Another Broken Egg Cafe,2.0,4.6,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']","8626 East 116th Street #175, Fishers"
